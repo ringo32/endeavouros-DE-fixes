@@ -9,7 +9,7 @@ icon=/usr/share/endeavouros/EndeavourOS-icon.png
 menu_file=/etc/xdg/menus/lxqt-applications-compact.menu
 ownIcon=true
 showText=true
-text="Ringo "
+text="LaunchPad "
 type=mainmenu
 
 
@@ -32,7 +32,7 @@ lock_screen_before_power_actions=false
 window_manager=openbox
 
 [Environment]
-BROWSER=/usr/bin/falkon
+BROWSER=/usr/bin/firefox
 GTK_CSD=0
 GTK_OVERLAY_SCROLLING=0
 TERM=qterminal
